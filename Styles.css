@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+input {
+    margin-bottom: 10px;
+}
+#result {
+    font-weight: bold;
+}
